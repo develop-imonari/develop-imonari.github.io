@@ -1,1 +1,17 @@
-
+{
+  "date": "2020-08-27T11:50:07+09:00",
+  "pid": "string",
+  "frame": {
+    "shop_account_frame_id": 1,
+    "frame_name": "ミッキー①",
+    "sort_num": 1,
+    "pieces": 5,
+    "wallpaper": "https://ma2file.lvdev.jp/contents_data/100097/wallpaper/101c.jpg",
+    "frame_piece_num": 2,
+    "piece_sort": [
+      "1",
+      "2"
+    ],
+    "checkin_status": 1
+  }
+}
