@@ -1,6 +1,6 @@
 {
   "date": "2020-08-27T11:50:07+09:00",
   "pid": "0123456789",
-  "error_code": 600,
-  "error_msg": "重複エラー"
+  "error_code": 100,
+  "error_msg": "BadReq"
 }
